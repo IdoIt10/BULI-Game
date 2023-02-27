@@ -1,0 +1,7 @@
+﻿  Header.c
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\בולי\בולי\Header.c(157,6): warning C4101: 'nRow': unreferenced local variable
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\בולי\בולי\Header.c(158,3): warning C4101: 'nCol': unreferenced local variable
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\בולי\בולי\Header.c(220,6): warning C4101: 'nRow': unreferenced local variable
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\בולי\בולי\Header.c(221,3): warning C4101: 'nCol': unreferenced local variable
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\בולי\בולי\Header.c(505,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  בולי.vcxproj -> C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\בולי\x64\Debug\בולי.exe
